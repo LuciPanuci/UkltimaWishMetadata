@@ -1,0 +1,16 @@
+{
+    "name": "ULTIMA Token",
+    "symbol": "ULTIMA",
+    "description": "ULTIMA is the core of the Ultima Wish vault system. It is a Solana token that secures user assets, powers beneficiary distribution, and facilitates payment for vault operations. Features include:\n- Integration with vaults for storing last wishes (text, audio, video, images).\n- Payment mechanism for subscriptions in both SOL and USDC.\n- Governance and voting rights for project enhancements.\n- Direct staking capabilities with 7% APY rewards.\n- Total supply: 250,000,000.",
+    "image": "ipfs://bafkreih3pd4oh4hmoeaksvszw2ewwnae2n6er5l3th6s3s5ieb6kb474ee",
+    "attributes": [
+        {
+            "trait_type": "Total Supply",
+            "value": "250,000,000"
+        },
+        {
+            "trait_type": "Decimals",
+            "value": "9"
+        }
+    ]
+}
